@@ -14,7 +14,7 @@ My name is Eugene and I'm a Software Developer.
 
 #### My Stats:
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ekalinin&show_icons=true&include_all_commits=true&hide_border=true" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekalinin&layout=compact&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats-six-seven.vercel.app/api?username=ekalinin&show_icons=true&include_all_commits=true&hide_border=true" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=ekalinin&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### My Personal Projects:
